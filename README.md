@@ -56,9 +56,9 @@ Solar flares are highly energetic events on the Sun that release vast amounts of
 ---
 
 ## Technologies Used
-- **Data Scraping**: `BeautifulSoup`, `requests`
-- **Data Manipulation**: `pandas`, `numpy`
-- **Visualization**: `matplotlib`, `seaborn`
+- **Data Scraping**: BeautifulSoup, requests
+- **Data Manipulation**: pandas, numpy
+- **Visualization**: matplotlib, seaborn
 - **Documentation**: Jupyter Notebook, HTML rendering
 
 ---
