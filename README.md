@@ -1,9 +1,4 @@
-## Short Version-
-This project analyzes solar flare data from SpaceWeatherLive and NASA. It uses Python to scrape and clean data, combines datasets, and visualizes trends like flare intensity and timing. The goal is to better understand solar activity and its impacts.
-
-
-
-## Long Version- 
+## Solar Flares Analysis- 
 
 Solar flares are highly energetic events on the Sun that release vast amounts of radiation, impacting space weather and potentially affecting satellites, astronauts, and power grids on Earth. This project aims to analyze and integrate data from SpaceWeatherLive.com and NASA's Wind/WAVES Type II Burst Catalog to provide enriched insights into solar flare activity.
 
