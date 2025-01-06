@@ -1,6 +1,4 @@
 ## Solar Flares Analysis- 
-## To view- https://anumsagheer01.github.io/solar_flare_analysis/
-
 Solar flares are highly energetic events on the Sun that release vast amounts of radiation, impacting space weather and potentially affecting satellites, astronauts, and power grids on Earth. This project aims to analyze and integrate data from SpaceWeatherLive.com and NASA's Wind/WAVES Type II Burst Catalog to provide enriched insights into solar flare activity.
 
 
